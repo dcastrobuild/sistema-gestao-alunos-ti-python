@@ -68,7 +68,7 @@ Gerada automaticamente a partir da última matrícula existente.
 ## Como Executar
 
 ```bash
-python trabalho_ESUDA_V4.py
+python gestao-alunos.py
 ```
 
 ---
@@ -77,7 +77,7 @@ python trabalho_ESUDA_V4.py
 
 README.md → documentação principal
 
-trabalho_ESUDA_V4.py → sistema principal
+gestao-alunos.py → sistema principal
 
 alunos.txt → armazenamento dos dados
 
@@ -140,6 +140,3 @@ O sistema valida:
 ## Autor(es)
 
 Rafael Henrique Ferreira D' castro
-
-
-Preencher
