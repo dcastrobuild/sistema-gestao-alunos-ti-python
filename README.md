@@ -81,10 +81,6 @@ gestao-alunos.py → sistema principal
 
 alunos.txt → armazenamento dos dados
 
-docs/ → documentação complementar
-
-imagens/ → imagens e diagramas
-
 .gitignore → exclusão de arquivos temporários
 
 ---
